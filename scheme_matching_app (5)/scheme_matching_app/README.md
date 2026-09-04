@@ -1,4 +1,4 @@
-# YojanaSetu - AI-Driven Scheme Matching (SIH26092)
+# UdyamSetu - AI-Driven Scheme Matching (SIH26092)
 
 Flutter mobile app prototype - Phase 1 (UI + navigation, dummy data).
 
